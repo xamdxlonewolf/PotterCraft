@@ -1,0 +1,24 @@
+[
+  {
+    "modid": "PotterCraft",
+    "name": "Potter Craft",
+    "description": "Extending Minecraft to the world of Harry Pottery",
+    "version": "1.0",
+    "credits": "Created by Mcobb14 & _Anamnesis_",
+    "logoFile": "",
+    "mcversion": "1.7.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "mcobb14",
+      "_anamnesis_"
+    ],
+    "parent": "",
+    "screenshots": [
+      
+    ],
+    "dependencies": [
+      
+    ]
+  }
+]
